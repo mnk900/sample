@@ -1,1 +1,2 @@
-This is my first chapter and the best one so far.
+This is my first chapter and the best one so far. 
+This is the new line added in the new branch
